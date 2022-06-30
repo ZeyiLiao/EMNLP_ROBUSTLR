@@ -1,0 +1,4 @@
+model: lrgenerative
+arch: t5_3b
+hf_name: t5-3b
+padding: 0
